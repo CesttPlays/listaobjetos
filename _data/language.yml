@@ -24,9 +24,9 @@ name_header: Nombre
 no_commands: 'Estos no son los comandos que buscas'
 
 # Redirect messages
-see_traits: 'Puedes ver los precios de los rasgos en la sección RASGOS'
-see_kinds: 'Puedes ver los precios de los rasgos en la sección ESPECIES'
-see_items: 'Puedes ver los precios de los rasgos en la sección OBJETOS'
+see_traits: 'Puedes ver los precios de los rasgos en la sección RASGOS '
+see_kinds: 'Puedes ver los precios de las especies en la sección ESPECIES '
+see_items: 'Puedes ver los precios de los objeros en la sección OBJETOS '
 
 # Search texts
 search_items: 'Buscar objetos...'
