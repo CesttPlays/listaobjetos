@@ -1907,7 +1907,7 @@
       "degree": -1
     },
     {
-      "description": "Timmy is staggeringly ugly. his face looks like a cross between a drawing by an untalented child, a malformed fetus in a jar of formaldehyde, and a piece of modern art. Others must exert conscious effort to look at him while conversing.",
+      "description": "Timmy es increíblemente feo. Su rostro parece un cruce entre el dibujo de un niño sin talento, un feto malformado en un frasco de formaldehído y una obra de arte moderno hecha por un perro.Cuando hablan con el ,tienen que concentrarse para no mirar a otro lado y mirar su horrible cara.",
       "stats": [
         "-2.0 beauty"
       ],
@@ -1929,7 +1929,7 @@
         ]
       },
       "defName": "Beauty",
-      "name": "staggeringlyugly",
+      "name": "TerriblementeFeo",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
